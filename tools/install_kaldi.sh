@@ -4,7 +4,7 @@
 #
 set -e
 
-KALDI_GIT="-b https://github.com/Ashesi-Org/kaldi.git" #pykaldi_02 https://github.com/Ashesi-Org/kaldi.git"
+KALDI_GIT="https://github.com/Ashesi-Org/kaldi.git" #pykaldi_02 https://github.com/Ashesi-Org/kaldi.git"
 
 KALDI_DIR="$PWD/kaldi"
 
